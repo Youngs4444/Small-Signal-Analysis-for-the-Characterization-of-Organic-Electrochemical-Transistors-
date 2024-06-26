@@ -17,7 +17,8 @@
 
 
 4. Demo
-- Follow “3. Instruction for use” in the ‘demo’ folder. 
+- Follow “3. Instruction for use”
 - Input parameters have already been assigned in the source code. 
 - Copy and paste the source code in the command window. 
+- Due to the limited storage, 'Result.txt' file is uploaded in Zenodo at 10.5281/zenodo.11093664.
 
